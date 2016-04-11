@@ -1,0 +1,1294 @@
+[
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_friends.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\find_friends.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_ping.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_ping.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo_blue.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_blue.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_pressed.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defult_group.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\defult_group.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zx.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\zx.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_press.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abv.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\abv.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auj.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\auj.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_ba.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\user_ba.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_titleaddfriend.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_titleaddfriend.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_photo.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_photo.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wp.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\wp.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abv.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\abv.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_card.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_card.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_disable.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_group.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_group.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_popwindow.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\large_logo_default_4.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\large_logo_default_4.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aii.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\aii.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set2.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\set2.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auo.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\auo.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\afr.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\afr.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pressed.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popmenu_bg.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\popmenu_bg.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_money.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_money.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_male.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aun.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\aun.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_press.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_addfriend.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6_.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\a6_.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_saoyisao.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_saoyisao.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_yao.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_yao.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_pressed.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\weixin_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_pressed.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\weixin_pressed.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\v2.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_smail.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_smail.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_nearby.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_setting.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_setting.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_collect.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_collect.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pressed.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_game.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_game.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_normal.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\weixin_normal.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_normal.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\profile_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aul.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\aul.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_group.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_group.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aun.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\aun.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_on.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\jy_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_talk.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_talk.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aub.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\aub.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_normal.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_smail.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_smail.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_toast.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\bg_common_toast.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_chat.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\no_chat.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_shop.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_shop.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_ping.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_ping.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\large_logo_default_4.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\large_logo_default_4.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_normal.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\find_normal.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_titleaddfriend.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_titleaddfriend.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_yao.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_yao.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popmenu_bg.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\popmenu_bg.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_icon_resume.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\jy_icon_resume.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_icon_resume.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\jy_icon_resume.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6a.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\a6a.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zx.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\zx.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo_blue.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_blue.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_chat.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\no_chat.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_shop.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_de_shop.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin_normal.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\weixin_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wp.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\wp.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_normal.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\profile_normal.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_toast.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\bg_common_toast.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_drltsz_btn_addperson.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\jy_drltsz_btn_addperson.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_game.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_game.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_photo.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_me_photo.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_drltsz_btn_addperson.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\jy_drltsz_btn_addperson.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aul.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\aul.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_pressed.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\v2.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_friends.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\find_friends.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6a.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\a6a.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\wo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aub.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\aub.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\set.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defult_group.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\defult_group.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_normal.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\find_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6_.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\a6_.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auo.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\auo.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_off.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\jy_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\afr.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\afr.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_sao.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_ba.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\user_ba.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_collect.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_collect.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_off.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\jy_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_addfriend.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_disable.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_nearby.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_male.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_card.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_card.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_btn_deleteperson.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_btn_deleteperson.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_pressed.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\find_pressed.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auj.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\auj.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_btn_deleteperson.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_btn_deleteperson.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_normal.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_saoyisao.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_de_saoyisao.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_talk.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_talk.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_on.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\jy_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_popwindow.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_pressed.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\find_pressed.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set2.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\set2.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_money.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_money.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\set.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_sao.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "F:\\weixin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_setting.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\icon_me_setting.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aii.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-hdpi\\aii.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wo.9.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-hdpi\\wo.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    }
+]

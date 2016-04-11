@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "F:\\weixin\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\weixin\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

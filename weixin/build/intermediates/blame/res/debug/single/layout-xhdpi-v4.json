@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\expression_gridview.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_picture.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_message.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_message.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_video.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_file.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_video.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_show_video.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_baidumap.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_video_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_big_image.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_chat_history.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_search.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\layout_head_search.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_file.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_text.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact_with_checkbox.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_friend.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\layout_head_friend.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_neterror_item.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\layout_chat_neterror_item.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_picture.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_chat_history.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_location.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_location.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_item_msg.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\layout_item_msg.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_location.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_location.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_file.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_file.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_chat.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_picture.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_picture.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_file.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_file.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_file.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_text.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_image.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_file.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_video_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_search.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\layout_head_search.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_voice_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_voice.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_message.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact_with_checkbox.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice_call.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_contact.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_voice.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_neterror_item.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\layout_chat_neterror_item.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_contact.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_tool.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\layout_chat_tool.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_message.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_baidumap.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_video.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_show_video.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_voice_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\alert_dialog.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_video.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_group.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_group.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_tool.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\layout_chat_tool.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\expression_gridview.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_video.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_invite_msg.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_invite_msg.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video_call.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_big_image.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_message.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_message.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_location.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_group.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_group.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_item_msg.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\layout_item_msg.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_received_video.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_invite_msg.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_invite_msg.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\alert_dialog.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_image.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_location.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_location.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_friend.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\layout_head_friend.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_picture.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_sent_picture.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_location.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_expression.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\row_expression.xml"
+    },
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_expression.xml",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\layout-xhdpi\\row_expression.xml"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_chat.xml",
+        "source": "F:\\weixin\\app\\src\\main\\res\\layout-xhdpi\\activity_chat.xml"
+    }
+]

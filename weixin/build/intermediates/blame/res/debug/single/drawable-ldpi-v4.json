@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\wechat\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gr.png",
+        "source": "F:\\wechat\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-ldpi\\gr.png"
+    },
+    {
+        "merged": "F:\\weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gr.png",
+        "source": "F:\\weixin\\app\\src\\main\\res\\drawable-ldpi\\gr.png"
+    }
+]
